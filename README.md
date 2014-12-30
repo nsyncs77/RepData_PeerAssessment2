@@ -23,7 +23,7 @@ The events in the database start in the year 1950 and end in November 2011. In t
 
 The basic goal of this assignment is to explore the NOAA Storm Database and answer some basic questions about severe weather events. You must use the database to answer the questions below and show the code for your entire analysis. Your analysis can consist of tables, figures, or other summaries. You may use any R package you want to support your analysis.
 
-#Questions
+####Questions
 
 Your data analysis must address the following questions:
 
@@ -33,7 +33,7 @@ Across the United States, which types of events have the greatest economic conse
 
 Consider writing your report as if it were to be read by a government or municipal manager who might be responsible for preparing for severe weather events and will need to prioritize resources for different types of events. However, there is no need to make any specific recommendations in your report.
 
-#Requirements
+####Requirements
 
 For this assignment you will need some specific tools
 
@@ -41,7 +41,7 @@ RStudio: You will need RStudio to publish your completed analysis document to RP
 
 knitr: You will need the knitr package in order to compile your R Markdown document and convert it to HTML
 
-#Document Layout
+####Document Layout
 
 Language: Your document should be written in English.
 
@@ -61,7 +61,7 @@ Your analyis must have no more than three figures. Figures may have multiple plo
 
 You must show all your code for the work in your analysis document. This may make the document a bit verbose, but that is okay. In general, you should ensure that echo = TRUE for every code chunk (this is the default setting in knitr).
 
-###Publishing Your Analysis
+####Publishing Your Analysis
 
 For this assignment you will need to publish your analysis on RPubs.com. If you do not already have an account, then you will have to create a new account. After you have completed writing your analysis in RStudio, you can publish it to RPubs by doing the following:
 
@@ -75,6 +75,6 @@ Once your document is published to RPubs, you should get a unique URL to that do
 
 NOTE: If you are having trouble connecting with RPubs due to proxy-related or other issues, you can upload your final analysis document file as a PDF to Coursera instead.
 
-###Submitting Your Assignment
+####Submitting Your Assignment
 
 In order to submit this assignment, you must copy the RPubs URL for your completed data analysis document in to the peer assessment question.
